@@ -30,6 +30,7 @@ class qa_prev_next_admin {
 				return '
 .qa-prev-next, .qa-prev-next-qinc {
     margin: 15px 0;
+    display: flow-root;
     clear: both;
 }
 
