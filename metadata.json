@@ -1,0 +1,13 @@
+{
+	"name": "Previous Next Questions",
+	"description": "This plugin adds a widget on question pages to show previous and next questions optionally including in same category as well",
+	"version": "1.2",
+	"date": "2022-07-16",
+	"uri": "https://github.com/GATEOverflow/q2a-prev-next-questions",
+	"update_uri": "https://raw.githubusercontent.com/GATEOverflow/q2a-prev-next-questions/master/metadata.json",
+	"author": "Arjun Suresh",
+	"author_uri": "http://gateoverflow.in/user/Arjun",
+	"license": "GPLv2",
+	"min_q2a": "1.6",
+	"load_order": "after_db_init"
+}
